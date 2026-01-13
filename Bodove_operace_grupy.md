@@ -13,9 +13,13 @@ S translační periodicitou jsou slučitelné jen některé rotace - 1.2.3.4.6
 <img width="618" height="243" alt="image" src="https://github.com/user-attachments/assets/df1f219f-8f20-4e2a-b98f-2a5ba7f30fcc" />
 
 jednoduchý sinus kosinus
+
 Inverzní osa - otočím a ozrcadlím přes střed - značky jsou ty kolečka anebo čárky se symbolem s osou
+
 U čtyřčetné inverzní dostanu tetraedr...interesant
+
 **BODOVÉ GRUPY URČUJÍ TVAR KRYSTALU**
+
 Je to v umění, to jsme určovali
 
 **obdélník** -> dvojčetná osa
@@ -56,7 +60,6 @@ prvky nemohu vždy libovolně kombinovat -> bodové grupy
 
 |operace | značka|
 |--------|-------|
-
 |n-četná osa | $C_n$|
 |identita | E|
 |rovina symetrie | $\sigma$|
@@ -81,7 +84,9 @@ prvky nemohu vždy libovolně kombinovat -> bodové grupy
    - 27 různých symetrii
  2) Skupina B: - má 3 a 4 četnou osu zároveň
     - je to dalších 5 grup - hlavně krychle a potom další modifikace krychle
+
 **CELKEM JE JICH 32 --- TOHLE VĚDĚT**
+
 izomorfní grupy mají stejné multiplikační tabulky (např 2 a m)
 - symtrická multiplikační tabulka - abelovská grupa
 - podgrupa - část grupy co je taky grupa - sudá versus celá čísla
@@ -105,6 +110,7 @@ izomorfní grupy mají stejné multiplikační tabulky (např 2 a m)
 | kubická| kombinace 3 a 2 nebo 4|čtyři 3četné podél tělesových úhlopříček |
 
 pořadí směrů prvků ve značení: [100], [111], [110]
+
 <span style = "color:green"> Na tu minimální symetrii jsou dobré testové otázky <span>
 
 Bravaisovy mříže taky dobré pamatovat - 14 dohromady
@@ -117,5 +123,5 @@ translace mohou být i a/2, b/2, c/2 - to potřebuju na centrované
 - je to přeurčené - čtvrtý index je závislý [uvtw], kde t = -(u+v)
 - není správné jen vypustit třetí index - občas to není dobře
 - u rhomboedrické občas dělám v hexagonální
-**každá soustava má svou metricku matici**
-  mezirovinné vzdálenosti jsou taky fajn vědět - 1/$d^2_{hkl}$
+- **každá soustava má svou metricku matici**
+- mezirovinné vzdálenosti jsou taky fajn vědět - 1/$d^2_{hkl}$
