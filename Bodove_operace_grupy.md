@@ -32,6 +32,7 @@ u rotace:
 prvky nemohu vždy libovolně kombinovat -> bodové grupy
 ## Bodové grupy
 - buǩy vybírám aby významné osy byly podél osy c
+- řád = počet prvků grupy
 - umět určit počty prvků symetrie u základních těles - krychle, tetraedr, oktaedr, šestiboký hranol
 - stereografická projekce
     - krystal dáme do středu kulové plochy
@@ -62,5 +63,59 @@ prvky nemohu vždy libovolně kombinovat -> bodové grupy
 |střed symetrie | i |
 |rotačně-reflexní osa | $S_n$|
 
-
+- multiplikační tabulka - good to know
+- osy se musí protínat - jinak by nebyl pevný bod
+- průsečnice dvou rovin symetrie je osa - úhel rotace je 2*úhel mezi rovinami
+- bod, kde sudá osa protíná rovinu je střed symetrie
+- vět je víc, ale nebude je zkoušet
+### Chytří pánové z těch vět udělali třídy symetie
+1) Skupina A: - má jen jednu vícečetnou osu rotace
+   
+       a) udělám vícečetnou osu - n
+       b) přidám kolmo na ni dvojčetné - n2, n22...
+       c) přidám kolmo na ni rovinu - n/m
+       d) přidám rovinu rovnoběžně - nmm
+       e) přidám kolmo i rovnoběžně rovinu n/mmm
+       f) jedna inverzní osa - -n
+       g) jedna inverzní s kolmou dvojčetnou - -3m, -42m, -6m2
+   - 27 různých symetrii
+ 2) Skupina B: - má 3 a 4 četnou osu zároveň
+    - je to dalších 5 grup - hlavně krychle a potom další modifikace krychle
+**CELKEM JE JICH 32 --- TOHLE VĚDĚT**
+izomorfní grupy mají stejné multiplikační tabulky (např 2 a m)
+- symtrická multiplikační tabulka - abelovská grupa
+- podgrupa - část grupy co je taky grupa - sudá versus celá čísla
+- nadgrupa - opak podgrupy
+      - fázové transformace jsou po ose grupa -> podgrupa
+<span style="color:red">Příklad:</span> určit multiplikační tabulky molekul
+**bacha an nekomutativní grupy
+  -shonflies se opužívá u molekul ale ne úplně 100% - viz vývojový diagram
+  <img width="650" height="563" alt="image" src="https://github.com/user-attachments/assets/5ab77589-65d9-4d48-9f6b-c116c31e0168" />
   
+- vědět: kdy do jaké soustavy ty grupy patří orientačně, vědět minimální symetrie grup:
+  
+|soustava | grupa| minimální symetrie |
+|-------|--------|-----|
+|triklinická | 1 | žádná |
+| mooklinická | 2 | 1 dvojčetná osa podél c (občas b)|
+| orthorombická (všechny úhly pravé)| | tři 2 četné osy podél a, b, c |
+|trigonální (3 stejné úhly) | 3| jedna 3četná podél buňky|
+| tetragonální (čtverec na podstavě, pravé úhly) | 4| jena 4 četná podél c|
+|hexagonální | 6| jedna 6četnná podél c |
+| kubická| kombinace 3 a 2 nebo 4|čtyři 3četné podél tělesových úhlopříček |
+
+pořadí směrů prvků ve značení: [100], [111], [110]
+<span style = "color:green"> Na tu minimální symetrii jsou dobré testové otázky <span>
+
+Bravaisovy mříže taky dobré pamatovat - 14 dohromady
+<img width="1535" height="993" alt="image" src="https://github.com/user-attachments/assets/0aa07192-fb8d-4862-a707-5f750ad68a6a" />
+
+translace mohou být i a/2, b/2, c/2 - to potřebuju na centrované
+
+4indexové snačení u hexagonální:
+- symetricky ekvivalentní směry dostanu jen porhazováním (narozdíl od trojindexů)
+- je to přeurčené - čtvrtý index je závislý [uvtw], kde t = -(u+v)
+- není správné jen vypustit třetí index - občas to není dobře
+- u rhomboedrické občas dělám v hexagonální
+**každá soustava má svou metricku matici**
+  mezirovinné vzdálenosti jsou taky fajn vědět - 1/$d^2_{hkl}$
