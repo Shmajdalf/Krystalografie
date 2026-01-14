@@ -1,0 +1,41 @@
+## Princip minimální energie
+- struktury chtějí spíš vyšší koeficienty zaplnění (ale existují prosté mříže)
+- hcp rádo přechází v fcc protože vypadá podobně
+- chemické vazby - narušují minimální energii
+  - kovalentní - silná, vazebné a antivazebné orbitaly
+    - existuje hezký applet na modelování orbitalů dvojmolekul
+    - směrová
+    - $\sigma$ a $\pi$ vazba
+    - vědět závislost poloměru atomu na Z
+    - menší počet sousedů
+    - tvrdé krystaly
+    - vysoké indexy lomu
+    - vyšší body tání, molekuly v tavenině
+  - kovová
+    - sdílenáý elektronový plyn
+    - nesměrová vazba -> těsné uspočádání
+    - častý skluz po orvinách
+    - velmi různé body tání
+    - neprůhledné
+  - iontová - elektron je skoro na aniontu
+    - vrátí se to ke koulím
+    - drží to elektrostatika -> vyžaduje to větší počet sousedů
+    - tehdence těsňejšího uspořádání
+    - Lennard-Jonesnův potenciál - model interakce atomů
+    - tvrdé krystaly
+    - izoanty, nízká roztažnost, ionty v tavenině
+    - průhlednost určena ionty
+  - vodíková - slabá
+    - dipólová interakce
+    - hodně organické látky (a led)
+    - mohou se hodně lišit v síle
+    - výrazně vyšší body tání ($H_2O$ versus $H_2S$)
+    - ->hustota ledu je vyšší než hustota vody
+  - Van der Waalsova-  slabé
+    - krystaly vzácných plynů
+    - formálně kovová
+    - měkké
+    - nízké tání a vysoká roztažnost
+    - izolanty
+    - optické vlastnisti určené molekulami
+**tedy strukturu ovlivňuje princip nejtěsnějšího uspořádání a vazby**
