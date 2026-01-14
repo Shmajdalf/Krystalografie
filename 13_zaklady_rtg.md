@@ -124,7 +124,7 @@ Fázový problém -> ztrácíme informaci o fázi - u centrosymetrických nevím
   <img width="1341" height="508" alt="image" src="https://github.com/user-attachments/assets/d63abfc6-ac46-41aa-9091-f4a9c57a8a39" />
 
 - chci zas střední hodnotu, protože difrakce je okamžitá
-- Debayeův-Wallerův faktor
+- Debayeův-Wallerův faktor - teplotní faktor, kakonec mi vyjde prostě exponenciální rozptyl
 - přidá se faktor co snižuje intenzitu a rozšiřuje peak -> difrakce na teplých krystalech je na hovno
 - rozšíření odpovídá fononům -> studium fononových spekter (přešlo se k neutronům, ale dneska se to zas dělá na synchrotronech)
 - 
@@ -143,7 +143,8 @@ Fázový problém -> ztrácíme informaci o fázi - u centrosymetrických nevím
       <img width="1116" height="770" alt="image" src="https://github.com/user-attachments/assets/da55e00c-1c11-475d-93ce-121199f97ba0" />
 
 
-Ze směrnice mám střední kvadratickou výchylku
+- Ze směrnice mám střední kvadratickou výchylku
+- teplotní kmity jsou elipsa
 
 **Důležité**
 
@@ -151,6 +152,12 @@ Jak vypadá strukturní faktor
 rozdíl elektroy neutrony
 co je atomový faktor a nějaké ty grafíky
 
+- my ten rozptyl ale nezjistíme, zjistíme jen intenzitu (kvadrát)
+- **Fridelův zákon** - intenzita je stejná i když rovinu otočím o 180˚
+  - anomální difrakce se ale chová jinak pro necentrosymetrický krystal
+- Laueova grupa symetrie - jen 11
+- existuje Pattersonova funkce - polže mi alespoń s meziatomovými vzdáenostmi
+- dneska: chemicky nahradím nějaký atom těžším atomem -> anomální disperze (na synchrotronu) -> vím který atom způsobuje tu anomálii a mám alespoň nějakou informaci
 
 
 
