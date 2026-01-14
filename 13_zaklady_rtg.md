@@ -8,6 +8,51 @@
     - rád se totálně odráží - na více vrstvách má braggovské peaky
     - montel optika
 # Difrakce 
+- chci zjistit strukturu (polohy atomů a bodovou grupu)
+- defekty
+### Rentgenka:
+
+<img width="241" height="385" alt="image" src="https://github.com/user-attachments/assets/c9a24b8d-5c00-459c-b8ba-03c9b55e778c" />
+
+- Brzdné a charakteristické záření (K$\alpha_{1/2}$, $K_\beta$)
+- k chlazení potřebuju hooodně vody
+- materiál anody může být různý (Cu, Mo, Ag) -> jiné char. záření
+- hloubka průniku taky roste s energií (mohu chtít vyšší vlnové délky (běžně mikrometry - nanometry)
+- oemzením je teplo (anoda rotuje)
+- katoda se napařuje na anodu (mám navíc volframové čáry)
+- diamantová anoda (dobrá tepelná vodivost)
+### Synchrotron
+- není v brně :/
+- polarizované a jedna vlnová délka - fajn
+### XFEL
+- rentgenové lasery - nevím jak fungují ale ani jsme si to neřekli
+- je to hodně v plenkách
+### Laueova metoda
+- krystal, dva filkḿy (na odraz a transmisi), záření zkrz filmy
+- za minuty mám opráski
+- pokud nemám hezké body, nemám monokrystal
+- přenáší se to do stereografické projekce -> průsečíky os jsou nízkoindexové roviny
+- symetrie poznám od oka
+- výsledek je lauegram
+- **metoda otáčeného krystalu** - najustuju to a potom rozvinu film co je kolem dokola -> umím pak určit roviny
+- **Wissenbergova metoda** - dostanu zkreslený ale průhledný obraz (nepřekrývají se mi roviny)
+- **precesní metoda** - tam se to nějak divně toší
+### Giometry
+- Eulerova kolébka
+  - velké
+- kappa goniometr - vypadá to jak ruka v průmyslu
+  - nevím moc oc skenuju, ale softvér to přepočte
+  - menší alepší
+
+
+<img width="630" height="367" alt="image" src="https://github.com/user-attachments/assets/f90f1934-c5e0-4c74-8611-e071756698a9" />
+
+- Na monokrystaly potřebujeme spíš užší svazek
+- obvykle mi dneska na vzorek míří kde co všecko
+
+  <img width="598" height="467" alt="image" src="https://github.com/user-attachments/assets/b3250d2a-9e16-40f4-9eb2-a44ee66b640b" />
+
+**Teorie difrakce**
 1) kinematická
     - difrakce je interference rozptýleného záření
     - zanedbáme vícenásobnou interferenci
