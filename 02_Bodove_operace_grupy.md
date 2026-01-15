@@ -105,7 +105,7 @@ izomorfní grupy mají stejné multiplikační tabulky (např 2 a m)
 | mooklinická | 2 | 1 dvojčetná osa podél c (občas b)|
 | orthorombická (všechny úhly pravé)| | tři 2 četné osy podél a, b, c |
 |trigonální (3 stejné úhly) | 3| jedna 3četná podél buňky|
-| tetragonální (čtverec na podstavě, pravé úhly) | 4| jena 4 četná podél c|
+| tetragonální (čtverec na podstavě, pravé úhly) | 4| jedna 4 četná podél c|
 |hexagonální | 6| jedna 6četnná podél c |
 | kubická| kombinace 3 a 2 nebo 4|čtyři 3četné podél tělesových úhlopříček |
 
