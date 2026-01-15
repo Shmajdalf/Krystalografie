@@ -15,7 +15,7 @@
     - Laue, Bragg
 - byla to mineralogie ale už tolik ne
 - nemohu vypnit rovinu pětiúhelníky - pětičetné symetrie nejsou úplně translačně symetrické
-**krystal dává ostrý difraktogram**
+- **ideální krystal dává ostrý difraktogram**
 # Popis vektorů a rovin mříží
 **ideální krystal** - nekonečný s pravidelnou strukturou
 **mříž** - geometrické místo - stejné a stejné okolí (když zvolím červený, nemohu zvolit žlutý)
