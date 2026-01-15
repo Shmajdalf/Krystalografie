@@ -35,7 +35,7 @@ u rotace:
 
 prvky nemohu vždy libovolně kombinovat -> bodové grupy
 ## Bodové grupy
-- buǩy vybírám aby významné osy byly podél osy c
+- buňy vybírám aby významné osy byly podél osy c
 - řád = počet prvků grupy
 - umět určit počty prvků symetrie u základních těles - krychle, tetraedr, oktaedr, šestiboký hranol
 - stereografická projekce
