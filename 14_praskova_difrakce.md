@@ -106,7 +106,7 @@ U dislokací nemám změnu mezirovinné vzálenosti v jednom směru -> dislokace
 ## Fázová analýza
 - dominantně prášky
 - pdf - zas databáze
-- dnes vyžaduju 0.02˚
+- dnes vyžaduju přesnost 0.02˚
 - směs více než 100 látek ani nejde rozlišit (i 10 je problém)
 
 
