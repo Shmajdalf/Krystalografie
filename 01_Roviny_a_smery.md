@@ -17,9 +17,9 @@
 - nemohu vypnit rovinu pětiúhelníky - pětičetné symetrie nejsou úplně translačně symetrické
 - **ideální krystal dává ostrý difraktogram**
 # Popis vektorů a rovin mříží
-**ideální krystal** - nekonečný s pravidelnou strukturou
-**mříž** - geometrické místo - stejné a stejné okolí (když zvolím červený, nemohu zvolit žlutý)
-**struktura** - rozmístění atomů
+- **ideální krystal** - nekonečný s pravidelnou strukturou
+- **mříž** - geometrické místo - stejné a stejné okolí (když zvolím červený, nemohu zvolit žlutý)
+- **struktura** - rozmístění atomů
 vektory indexuju celočíselně (mínus by mělo být nad)
 <img width="377" height="106" alt="image" src="https://github.com/user-attachments/assets/f246c14c-cdf9-4e0b-99cf-1633996cad45" />
 
@@ -43,13 +43,13 @@ Když chceme vdálenost dvou atomů: $r = \sqrt{xGx}$ kde x je vektor mezi těma
 ## ROVINY
 jednu značím ()
 systém rovin v {}
-1) vemmu průsečíky
+1) vemu průsečíky
 2) udělám převrácené hodnoty
 3) společný jmenovatel
 4) vemu čitatele těch zlomků
-**0 značí rovnoběžnost s tím směrem, 1 je taky ezy**
-osa zóny - směr společný všem rovinám
-zóna - soubor rovnoběžných rovin
+- **0 značí rovnoběžnost s tím směrem, 1 je taky ezy**
+- osa zóny - směr společný všem rovinám
+- zóna - soubor rovnoběžných rovin
 
 ## Příklady:
 Urči indexy následujících rovin a směrů:
