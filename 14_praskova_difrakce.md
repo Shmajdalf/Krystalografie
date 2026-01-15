@@ -1,4 +1,4 @@
-- **prášek** - difrakce na polykrystalech a tenkýc vrtvách **NEJEN PRÁŠKY 😕**
+- **prášek** - difrakce na polykrystalech a tenkých vrtvách **NEJEN PRÁŠKY 😕**
 ## Evaldova konstrukce
 - z těch bodů přichází jen kroužky
 1) udělám evaldovu kouli o poloměru 1/$\lambda$ - reflexní
