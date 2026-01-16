@@ -27,3 +27,5 @@ V kubické to ale je a/$\sqrt{h^2+k^2+l^2}$
 - transmisní elektronová mikroskopie
 - zdroj poskytuje koherentní elektronový svazek
 - magnetické čočky 
+- řádově milion zvětšení
+- 
